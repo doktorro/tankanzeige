@@ -1,0 +1,7 @@
+{
+  "name": "tankanzeige",
+  "version": "0.1.0",
+  "description": "Zeigt über dem Eingabefeld, wie viel vom 5-Stunden- und 7-Tage-Limit noch frei ist und wann es wieder voll ist",
+  "author": { "name": "Robert Rotter" },
+  "types": "./types/index.d.ts"
+}

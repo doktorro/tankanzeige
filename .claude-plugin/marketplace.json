@@ -1,0 +1,5 @@
+{
+  "name": "tankanzeige",
+  "owner": { "name": "Robert Rotter" },
+  "plugins": [{ "name": "tankanzeige", "source": "./" }]
+}
